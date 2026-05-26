@@ -1,0 +1,12 @@
+id: 019e6265-c48e-7610-a7d9-9901d2945507
+spec_id: STORY-1
+agreed_id: STORY-1
+title: Print 'Hello, World!' from hello.sh
+description: 'Add hello.sh that prints ''Hello, World!'' to stdout. Acceptance: ./hello.sh prints the literal string and exits 0.'
+status: Approved
+priority: Medium
+owner: ''
+feature: Uncategorized
+created_at: 2026-05-26T03:48:17.166346924Z
+modified_at: 2026-05-26T03:48:17.166346924Z
+req_type: Story
